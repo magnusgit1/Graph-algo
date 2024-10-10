@@ -6,8 +6,8 @@ Once ran, it will display 2 separate paths. One of which displays the path that 
 
 ## How to use
 
-First clone the repo using: git clone http://magnusgit1/Graph-algo.git
+Clone the repo using: git clone http://magnusgit1/Graph-algo.git
 
-You can change the actors of which you want a find a path between simply changing the names in the "skrivutBilligsteVei" and "skrivutRaskesteVei"-method-calls in main.
+You can change the actors of which you want a find a path between by simply changing the names in the "skrivutBilligsteVei" and "skrivutRaskesteVei"-method-calls in main.
 
 
